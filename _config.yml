@@ -1,7 +1,7 @@
 remote_theme : hydecorp/hydejack
 
-url:"https://ske-kr.github.io"
-baseurl:""
+url : "https://ske-kr.github.io"
+baseurl : ""
 
 lang:                  en
 title:                 Hydejack
